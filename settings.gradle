@@ -1,0 +1,8 @@
+//include ':app'
+include ':animacionDrawable'
+//include ':curvas'
+//include ':eventosTouch'
+//include ':formasGeometricas'
+//include ':pintarTexto'
+//include ':textoSiguiendoCurva'
+

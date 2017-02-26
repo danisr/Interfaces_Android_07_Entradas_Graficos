@@ -1,0 +1,7 @@
+#Sat Jan 21 17:52:00 CET 2017
+base.0=F\:\\5.1-ANDROID_INTERFACES\\Ejemplos-Graficos\\eventosTouch\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_453e086559208f79bf72b7bd6e5c1e141b7cb2f8
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\5.1-ANDROID_INTERFACES\\Ejemplos-Graficos\\eventosTouch\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3bfd2784be732f894cf41e6ba453b38a912c8d9d\\classes.dex
+base.1=F\:\\5.1-ANDROID_INTERFACES\\Ejemplos-Graficos\\eventosTouch\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3bfd2784be732f894cf41e6ba453b38a912c8d9d
+file.0=F\:\\5.1-ANDROID_INTERFACES\\Ejemplos-Graficos\\eventosTouch\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_453e086559208f79bf72b7bd6e5c1e141b7cb2f8\\classes.dex

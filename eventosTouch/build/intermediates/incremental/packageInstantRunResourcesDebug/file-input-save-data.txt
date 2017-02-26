@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Sat Jan 21 17:51:41 CET 2017
+1.base=F\:\\5.1-ANDROID_INTERFACES\\Ejemplos-Graficos\\eventosTouch\\build\\intermediates\\res\\resources-debug.ap_
+4.file=F\:\\5.1-ANDROID_INTERFACES\\Ejemplos-Graficos\\eventosTouch\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.file=F\:\\5.1-ANDROID_INTERFACES\\Ejemplos-Graficos\\eventosTouch\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+4.set=ANDROID_RESOURCE
+2.base=F\:\\5.1-ANDROID_INTERFACES\\Ejemplos-Graficos\\eventosTouch\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=F\:\\5.1-ANDROID_INTERFACES\\Ejemplos-Graficos\\eventosTouch\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+count=5
+1.set=ANDROID_RESOURCE
+3.base=F\:\\5.1-ANDROID_INTERFACES\\Ejemplos-Graficos\\eventosTouch\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=F\:\\5.1-ANDROID_INTERFACES\\Ejemplos-Graficos\\eventosTouch\\build\\intermediates\\res\\resources-debug.ap_
+3.file=F\:\\5.1-ANDROID_INTERFACES\\Ejemplos-Graficos\\eventosTouch\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\eventos_touch.xml
+0.file=F\:\\5.1-ANDROID_INTERFACES\\Ejemplos-Graficos\\eventosTouch\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_eventos_touch.xml
+4.base=F\:\\5.1-ANDROID_INTERFACES\\Ejemplos-Graficos\\eventosTouch\\build\\intermediates\\res\\resources-debug.ap_
